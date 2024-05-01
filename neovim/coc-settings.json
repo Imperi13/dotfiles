@@ -1,0 +1,9 @@
+{
+  "clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/13.0.0/clangd_13.0.0/bin/clangd",
+  "jedi": {
+    "enable": true,
+    "startupMessage": false,
+    "executable.command": "~/.local/bin/jedi-language-server"
+  },
+  "go.goplsPath": "/home/imperi/.asdf/installs/golang/1.19/packages/bin/gopls"
+}
